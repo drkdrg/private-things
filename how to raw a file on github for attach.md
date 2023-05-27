@@ -10,6 +10,6 @@ rp: repository
 
 br: branch
 
-f-d: folder or document name (*if your file has a space bettween its words, you should put `%20` instead*)
+f-d: folder or document name (*if your file has a space between its words, you should put `%20` instead*)
 
 .format: the format of your file
