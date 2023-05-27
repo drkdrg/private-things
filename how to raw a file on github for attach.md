@@ -4,7 +4,7 @@
 
 `https://raw.githubusercontent.com/pn/rp/br/f-d.format`
 
-pn: profile username or (*name*)
+pn: profile username (*name*)
 
 rp: repository
 
